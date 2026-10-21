@@ -5,7 +5,7 @@ any repository that has no file of that kind of its own; a repository's own file
 
 | File | What it does |
 |---|---|
-| [`FUNDING.yml`](FUNDING.yml) | The ♥ **Sponsor** button, leading to [github.com/sponsors/lampmaker](https://github.com/sponsors/lampmaker). A repository shows it once *Settings › General › Features › Sponsorships* is ticked there. |
+| [`.github/FUNDING.yml`](.github/FUNDING.yml) | The ♥ **Sponsor** button, leading to [github.com/sponsors/lampmaker](https://github.com/sponsors/lampmaker). A repository shows it once *Settings › General › Features › Sponsorships* is ticked there. |
 
 This repository has to stay **public** for GitHub to use these defaults.
 
